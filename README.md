@@ -11,3 +11,5 @@ As of recently, WhatsApp Web has an official Dark Mode support that isn't shown 
 3. Click install
 
 4. Refresh your WhatsApp Web tab and go wild
+
+![](screenshot.png)
