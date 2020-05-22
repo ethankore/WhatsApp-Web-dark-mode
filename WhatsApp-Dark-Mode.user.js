@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://web.whatsapp.com/
 // @grant        none
+// @updateURL    https://github.com/tkore/WhatsApp-Web-dark-mode/raw/master/WhatsApp-Dark-Mode.user.js
 // ==/UserScript==
 
 (function() {
