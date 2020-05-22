@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 (function() {
-  window.onload = e => {
+	window.onload = e => {
 		document.body.className = 'web dark text-rendering-bug-fix';
 	}
 })();
