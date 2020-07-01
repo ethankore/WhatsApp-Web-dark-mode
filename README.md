@@ -1,6 +1,10 @@
-# WhatsApp Web Dark Mode
+# WhatsApp Web Dark Mode (deprecated)
 
-As of recently, WhatsApp Web has an official Dark Mode support that isn't shown yet. This Userscript makes it run by default :)
+<h2 style="font-size: 20px; font-weight: bold; text-decoration: underline;">
+  Note: this userscript is now deprecated, as WhatsApp now supports this natively in WhatsApp Web. It was a fun ride :)
+</h2>
+
+As of recently, WhatsApp Web has an official Dark Mode support that isn't shown yet. This Userscript makes it run by default.
 
 ## Installation
 
